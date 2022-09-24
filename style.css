@@ -20,7 +20,7 @@
     height: 95px;
     display: flex;
     max-width: 1330px;
-      min-width: 1280px;
+    min-width: 1280px;
   }
   
   .header__link {
@@ -52,8 +52,8 @@
     align-items: center;
     flex-wrap: wrap;
     max-width: 1330px;
-      min-width: 1280px;
-      margin: 40px auto;
+    min-width: 1280px;
+    margin: 40px auto;
   }
   
   .menu__link {
